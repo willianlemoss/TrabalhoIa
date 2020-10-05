@@ -1,0 +1,7 @@
+Para executar a instância de 30 cidades
+python mainMaisProximo30.py quantidade_de_caxeiro
+quantidade_de_caxeiro = a um valor inteiro
+
+Para executar a instância de 100 cidades
+python mainMaisProximo100.py quantidade_de_caxeiro
+quantidade_de_caxeiro = a um valor inteiro
